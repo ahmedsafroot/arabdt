@@ -1,0 +1,6 @@
+name: Task Module
+description: Creates a task module".
+package: Custom
+
+type: module
+core: 8.x

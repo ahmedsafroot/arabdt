@@ -1,0 +1,6 @@
+custom:
+  js:
+    js/script.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

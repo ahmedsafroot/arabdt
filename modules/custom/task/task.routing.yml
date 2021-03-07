@@ -1,0 +1,7 @@
+task.arab_dt_form:
+  path: '/arabdt'
+  defaults:
+    _form: 'Drupal\task\Form\ArabDTForm'
+    _title: 'ArabDt form'
+  requirements:
+    _permission: 'access content'
